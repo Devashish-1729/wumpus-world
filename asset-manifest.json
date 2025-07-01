@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wumpus-world/static/css/main.4b489d62.css",
+    "main.js": "/wumpus-world/static/js/main.a66afe02.js",
+    "static/js/453.311cd3eb.chunk.js": "/wumpus-world/static/js/453.311cd3eb.chunk.js",
+    "index.html": "/wumpus-world/index.html",
+    "main.4b489d62.css.map": "/wumpus-world/static/css/main.4b489d62.css.map",
+    "main.a66afe02.js.map": "/wumpus-world/static/js/main.a66afe02.js.map",
+    "453.311cd3eb.chunk.js.map": "/wumpus-world/static/js/453.311cd3eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b489d62.css",
+    "static/js/main.a66afe02.js"
+  ]
+}
